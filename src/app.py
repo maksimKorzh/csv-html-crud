@@ -149,7 +149,7 @@ def update():
                 <body>
                   {{data}}
                   <div class="container mt-5 text-center">
-                    <h3>Create new entry:</h3>
+                    <h3>Edit current entry:</h3>
                     <form class="mt-4" method="POST">
                       <div class="col mt-2" hidden>
                         <div class="row mx-auto" style="width: 300px">
